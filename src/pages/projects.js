@@ -222,7 +222,7 @@ export default function Projects() {
                 title="Exploring Data Analysis"
                 summary="The provided code is a Python script that performs various statistical analyses and data visualization tasks on a dataset containing information related to insurance charges. The code utilizes libraries such as pandas, numpy, scipy, statsmodels, and matplotlib for data manipulation, statistical analysis, and creating visualizations."
                 img={proj3}
-                link="/"
+                link="https://github.com/Francys04/EDA_Analysis_DS_Py"
                 github="https://github.com/Francys04/EDA_Analysis_DS_Py"
               />
             </div>
